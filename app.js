@@ -20,7 +20,7 @@ var image2 = "images/dice"+img2+".png";
 document.querySelector(".img2").setAttribute("src", image2);
 
 
-
+// Outra maneira de resolver porem com o código muito maior
 // // Dado 1
 // if (img1 === 1 ){
 //     document.querySelector(".img1").setAttribute("src","./images/dice1.png");
