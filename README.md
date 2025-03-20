@@ -1,4 +1,5 @@
 # Dicee Game
+https://matheus-sousa-nascimento.github.io/Dice-Game/
 
 Este é um jogo simples de dados, onde dois jogadores (Player 1 e Player 2) jogam um dado aleatório e o vencedor é determinado pela comparação dos valores dos dados. Caso ambos os jogadores tirem o mesmo número, o jogo será considerado um empate.
 
